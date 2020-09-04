@@ -1,0 +1,11 @@
+.container {
+  display: flex;
+  justify-content: flex-start;
+  margin: 0;
+}
+.addUser {
+  width: 50%;
+}
+.listUser {
+  width: 50%;
+}
